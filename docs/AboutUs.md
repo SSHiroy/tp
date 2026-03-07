@@ -9,51 +9,49 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ## Project team
 
-### John Doe
+### Tom Qiao
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/tomqiao0116.png" width="200px">
 
-[[homepage](http://www.comp.nus.edu.sg/~damithch)]
-[[github](https://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[github](https://github.com/TomQiao0116)]
+[[portfolio](team/tomqiao0116.md)]
 
-* Role: Project Advisor
+* Role: Developer
+* Responsibilities: Documentation, Git workflow
 
-### Jane Doe
+### FreakkMe
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/freakkme.png" width="200px">
 
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[github](http://github.com/FreakkMe)]
 
-* Role: Team Lead
+* Role: Developer
 * Responsibilities: UI
 
-### Johnny Doe
+### Ee Chern
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/chern30.png" width="200px">
 
-[[github](http://github.com/johndoe)] [[portfolio](team/johndoe.md)]
+[[github](http://github.com/chern30)]
 
 * Role: Developer
 * Responsibilities: Data
 
-### Jean Doe
+### Jason Kuan
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/jasonkuan.png" width="200px">
 
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[github](http://github.com/JasonKuann)]
 
 * Role: Developer
 * Responsibilities: Dev Ops + Threading
 
-### James Doe
+### Shiroy Sattur
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/sshiroy.png" width="200px">
 
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[github](http://github.com/SSHiroy)]
+[[portfolio](team/sshiroy.md)]
 
 * Role: Developer
 * Responsibilities: UI
