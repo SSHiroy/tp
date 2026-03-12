@@ -12,11 +12,11 @@ public class InterviewRecord {
     private final String notes;
 
     /**
-     * Constructs an {@code InterviewRecord}.
+     * Creates an interview record.
      *
      * @param id The unique id of the interview record.
-     * @param date The date of the interview.
-     * @param notes The notes for the interview.
+     * @param date The interview date.
+     * @param notes The interview notes.
      */
     public InterviewRecord(String id, String date, String notes) {
         this.id = Objects.requireNonNull(id);
@@ -47,7 +47,6 @@ public class InterviewRecord {
         }
 
         InterviewRecord otherRecord = (InterviewRecord) other;
-
         return id.equals(otherRecord.id)
                 && date.equals(otherRecord.date)
                 && notes.equals(otherRecord.notes);
