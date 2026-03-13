@@ -78,3 +78,4 @@ public class AddInterviewRecordCommand extends Command {
                 && toAdd.equals(otherCommand.toAdd);
     }
 }
+

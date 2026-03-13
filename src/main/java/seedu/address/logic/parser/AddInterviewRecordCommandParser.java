@@ -54,3 +54,4 @@ public class AddInterviewRecordCommandParser implements Parser<AddInterviewRecor
         return Stream.of(prefixes).allMatch(prefix -> argumentMultimap.getValue(prefix).isPresent());
     }
 }
+

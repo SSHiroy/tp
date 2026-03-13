@@ -34,3 +34,4 @@ class JsonAdaptedInterviewRecord {
         return new InterviewRecord(id, date, notes);
     }
 }
+

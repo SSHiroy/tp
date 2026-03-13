@@ -77,3 +77,4 @@ public class DeleteInterviewRecordCommand extends Command {
                 && recordIndex.equals(otherCommand.recordIndex);
     }
 }
+

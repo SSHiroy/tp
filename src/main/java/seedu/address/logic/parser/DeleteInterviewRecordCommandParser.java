@@ -31,3 +31,4 @@ public class DeleteInterviewRecordCommandParser implements Parser<DeleteIntervie
         return new DeleteInterviewRecordCommand(personIndex, recordIndex);
     }
 }
+
